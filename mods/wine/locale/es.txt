@@ -1,0 +1,27 @@
+# Traducción al español del mod Wine por TenPlus1
+# textdomain: wine
+# author: Unknown
+# author: TenPlus1
+# author: TheDarkTiger
+# last update: 2020/Apr/26
+
+Glass of Wine=Copa de vino
+Bottle of Wine=Botella de vino
+Rum=Ron
+Bottle of Rum=Botella de Ron
+Wheat Beer=Cerveza de trigo
+Beer=Cerveza
+Honey-Mead=Bebida de miel
+Apple Cider=Sidra de manzana
+Tequila=Tequíla
+Bottle of Tequila=Botella de Tequíla
+Sake=Sake
+Glass of Bourbon=Copa de Borbón
+Bottle of Bourbon=Botella de Borbón
+Glass of Vodka=Copa de Vodka
+Bottle of Vodka=Botella de Vodka
+Blue Agave=Agave Tequilana
+Fermenting Barrel=Barril de fermentación
+Fermenting Barrel (FULL)=Barril de fermentación (Lleno)
+Fermenting Barrel (@1% Done)=Barril de fermentación (@1% completado)
+[MOD] Wine loaded=[MOD] Wine cargado

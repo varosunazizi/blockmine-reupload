@@ -1,0 +1,26 @@
+# Deutsche Übersetzung der wine Mod
+# textdomain: wine
+# Author: Xanthin
+# Author: TheDarkTiger
+# last update: 2020/Apr/26
+
+Glass of Wine=Glas Wein
+Bottle of Wine=Flasche Wein
+Rum=Rum
+Bottle of Rum=Flasche Rum
+Wheat Beer=Weizenbier
+Beer=Bier
+Honey-Mead=Honigwein
+Apple Cider=Apfelwein
+Tequila=Tequila
+Bottle of Tequila=Flasche Tequilla
+Sake=Sake
+Glass of Bourbon=Glas Bourbon
+Bottle of Bourbon=Flasche Bourbon
+Glass of Vodka=Glas Wodka
+Bottle of Vodka=Flasche Wodka
+Blue Agave=Agave
+Fermenting Barrel=Gärfass
+Fermenting Barrel (FULL)=Gärfass (VOLL)
+Fermenting Barrel (@1% Done)=Gärfass (@1% erledigt)
+[MOD] Wine loaded=[MOD] Wine geladen

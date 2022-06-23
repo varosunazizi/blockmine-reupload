@@ -1,0 +1,25 @@
+# Template for translations of wine mod
+# textdomain: wine
+# author: ?
+# last update: 2020/Apr/26
+
+Glass of Wine=
+Bottle of Wine=
+Rum=
+Bottle of Rum=
+Wheat Beer=
+Beer=
+Honey-Mead=
+Apple Cider=
+Tequila=
+Bottle of Tequila=
+Sake=
+Glass of Bourbon=
+Bottle of Bourbon=
+Glass of Vodka=
+Bottle of Vodka=
+Blue Agave=
+Fermenting Barrel=
+Fermenting Barrel (FULL)=
+Fermenting Barrel (@1% Done)=
+[MOD] Wine loaded=

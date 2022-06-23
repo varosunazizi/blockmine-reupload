@@ -1,0 +1,2 @@
+#    Dragons have a classic Dragon appearance
+alt (Wyvern Model) bool false
